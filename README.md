@@ -1,4 +1,5 @@
-# 05-Design-udemy
+# 05-Design-practice
+
 
 ![design-pic1](https://user-images.githubusercontent.com/105224244/181822230-d1352ec5-b070-4007-92ad-483b56e6d7ba.jpg)
 ![design-pic2](https://user-images.githubusercontent.com/105224244/181822243-d05ff95c-c676-49ab-abe4-b1648b2279d8.jpg)
